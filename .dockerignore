@@ -1,0 +1,10 @@
+.vscode
+.venv
+db.sqlite3
+dump.rdb
+.git
+.env
+__pycache__/
+*.pyc
+celerybeat-schedule.db
+.DS_Store
